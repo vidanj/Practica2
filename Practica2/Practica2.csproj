@@ -42,8 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asiatico.cs" />
+    <Compile Include="Chihuaha.cs" />
+    <Compile Include="Corgi.cs" />
+    <Compile Include="Cuadrupedo.cs" />
+    <Compile Include="Europeo.cs" />
+    <Compile Include="Gorila.cs" />
+    <Compile Include="Horangutan.cs" />
+    <Compile Include="Humanos.cs" />
+    <Compile Include="Husky.cs" />
+    <Compile Include="Latino.cs" />
+    <Compile Include="Mandril.cs" />
+    <Compile Include="Perros.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Simios.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
